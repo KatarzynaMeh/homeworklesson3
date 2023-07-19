@@ -1,0 +1,88 @@
+.bodycolor{
+    background-color: rgb(18, 17, 35);
+}
+
+h1{
+    text-align: center;
+    font-style: oblique;
+    color: rgb(12, 186, 244);
+}
+h2{
+    text-align: center;
+    margin-top: 20px;
+    font-style: oblique;
+    
+}
+
+.hobby{
+    border: 3px solid rgb(91, 94, 97);
+    background-color: rgb(159, 192, 205);
+    padding: 20px 5px 5px 20px;
+    border-radius: 20px 20px 20px 20px;
+    margin: 5px;
+}
+.hobbyp{
+    text-align: center;
+    font-style: oblique;
+}
+
+.work{
+    border: 3px solid rgb(16, 133, 20);
+    background-color: rgb(200, 233, 207);
+    padding: 20px 5px 5px 20px;
+    border-radius: 20px 20px 20px 20px;
+    margin: 5px;
+}
+
+.family{
+    border: 3px solid rgb(211, 120, 1);
+    background-color: rgb(251, 254, 225);
+    padding: 20px 5px 5px 20px;
+    border-radius: 20px 20px 20px 20px;
+    margin: 5px;
+}
+
+.hobbyimg1{
+    width: 300px;
+    height: 520px;
+    border-radius: 20px 20px 20px 20px;
+    margin: 30px 50px 80px 120px;
+}
+.hobbyimg2{
+    width: 300px;
+    height: 520px;
+    border-radius: 20px 20px 20px 20px;
+    margin: 30px 50px 80px 120px;
+}
+.hobbyimg3{
+    width: 300px;
+    height: 410px;
+    border-radius: 20px 20px 20px 20px;
+    margin: 30px 50px 80px 120px;
+}
+.workimg{
+    border-radius: 20px 20px 20px 20px;
+    margin: 50px 50px 50px 180px;
+}
+.familyimg1{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px 20px 20px 20px;
+    margin: 30px 50px 80px 120px;
+}
+.familyimg2{
+    width: 350px;
+    height: 280px;
+    border-radius: 20px 20px 20px 20px;
+    margin: 30px 50px 80px 120px;
+}
+.footerimg1{
+    width: 50px;
+    height: 50px;
+    margin: 20px 20px 50px 700px;
+}
+.footerimg2{
+    width: 50px;
+    height: 50px;
+    margin: 20px 0px 50px 0px;
+}
